@@ -1,4 +1,4 @@
-type ClothingItem = {
+interface ClothingItem {
     id: number;
     name: string;
     description: string;
